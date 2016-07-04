@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;OpenGTS&apos;" deleteContents="false" description="Delete resource &apos;OpenGTS&apos;" element1="/OpenGTS" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1455720760017"/>
+</session>
